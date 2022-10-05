@@ -1,12 +1,12 @@
 {
   "maintainer": {
-    "name": "Forbole",
-    "url": "https://forbole.com"
+    "name": "AnamikaLabs",
+    "url": "https://anamikalabs.id"
   },
   "github": {
-    "reportIssue": "https://github.com/forbole/big-dipper-2.0-cosmos/issues"
+    "reportIssue": "https://github.com/elesto-dao/big-dipper/issues"
   },
-  "basePath": "/desmos",
+  "basePath": "/",
   "previewImage": "https://bigdipper.live/images/big-dipper-social-media.png",
-  "version": "base-v2.1.1"
+  "version": "v0.1.0"
 }

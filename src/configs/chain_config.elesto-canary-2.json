@@ -1,0 +1,28 @@
+{
+  "title": "Elesto Block Explorer",
+  "network": "elesto-canary-2",
+  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "logo": {
+    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+  },
+  "prefix": {
+    "consensus": "elestovalcons",
+    "validator": "elestovaloper",
+    "account": "elesto"
+  },
+  "genesis": {
+    "time": "2022-09-16T02:08:33.825308199Z",
+    "height": 1
+  },
+  "primaryTokenUnit": "uelesto",
+  "votingPowerTokenUnit": "uelesto",
+  "tokenUnits": {
+    "udaric": {
+      "display": "elesto",
+      "exponent": 6
+    }
+  },
+  "extra": {
+    "profile": true
+  }
+}

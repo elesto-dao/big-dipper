@@ -16,6 +16,7 @@ const app = next({
 
 const handle = app.getRequestHandler();
 
+const address = process.env.ADDRESS || 'localhost';
 const port = process.env.PORT || 3000;
 
 (async () => {
@@ -29,7 +30,7 @@ const port = process.env.PORT || 3000;
     server.all('*', (req: Request, res: Response) => {
       return handle(req, res);
     });
-    server.listen(port, (err?: any) => {
+    server.listen(port, address, (err?: any) => {
       if (err) throw err;
       console.log('> Blast Off Ready On:');
       console.log(`> URL: http://localhost:${port}`);
