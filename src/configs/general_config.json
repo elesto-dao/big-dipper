@@ -6,7 +6,7 @@
   "github": {
     "reportIssue": "https://github.com/elesto-dao/big-dipper/issues"
   },
-  "basePath": "/",
+  "basePath": "/elesto",
   "previewImage": "https://bigdipper.live/images/big-dipper-social-media.png",
   "version": "v0.1.0"
 }
