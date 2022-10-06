@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/elesto-dao/big-dipper/compare/v1.0.0...v1.0.1) (2022-10-06)
+
+
+### Bug Fixes
+
+* deploy to elesto instead of desmos ([7f022d3](https://github.com/elesto-dao/big-dipper/commit/7f022d39854faeda7f5d65d251d36f7135e51829))
+
 ## 1.0.0 (2022-10-05)
 
 
