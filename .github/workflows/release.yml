@@ -11,7 +11,7 @@ jobs:
     name: Release
     strategy:
       matrix:
-        chain: [elesto-canary-2]
+        chain: [elesto-canary-3]
     runs-on: ubuntu-latest
     steps:
       - id: release-please

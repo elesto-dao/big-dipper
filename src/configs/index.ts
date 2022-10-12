@@ -1,4 +1,4 @@
-import chainConfigCanary2 from './chain_config.elesto-canary-2.json';
+import chainConfigCanary3 from './chain_config.elesto-canary-3.json';
 import chainConfigTestnet from './chain_config.testnet.json';
 import chainConfigMainnet from './chain_config.mainnet.json';
 import generalConfig from './general_config.json';
@@ -14,9 +14,9 @@ const getChainConfig = () => {
       return chainConfigMainnet;
     case 'testnet':
       return chainConfigTestnet;
-    case 'elesto-canary-2':
+    case 'elesto-canary-3':
     default:
-      return chainConfigCanary2;
+      return chainConfigCanary3;
   }
 };
 

@@ -1,6 +1,6 @@
 {
   "title": "Elesto Block Explorer",
-  "network": "elesto-canary-2",
+  "network": "elesto-canary-3",
   "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
   "logo": {
     "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
