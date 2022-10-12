@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/elesto-dao/big-dipper/compare/v1.0.1...v1.1.0) (2022-10-12)
+
+
+### Features
+
+* update to elesto-canary-3 ([287631f](https://github.com/elesto-dao/big-dipper/commit/287631fcf3cb683910f648f47653f8a54bdb2d94))
+
 ## [1.0.1](https://github.com/elesto-dao/big-dipper/compare/v1.0.0...v1.0.1) (2022-10-06)
 
 
