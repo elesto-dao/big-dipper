@@ -3,7 +3,8 @@
   "network": "elesto-canary-3",
   "icon": "/elesto/svg/elesto-icon.svg",
   "logo": {
-    "default": "/elesto/svg/elesto-logo.svg"
+    "default": "/elesto/svg/elesto-logo-white.svg",
+    "light": "/elesto/svg/elesto-logo-primary.svg"
   },
   "prefix": {
     "consensus": "elestovalcons",
