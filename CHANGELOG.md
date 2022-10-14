@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/elesto-dao/big-dipper/compare/v1.1.0...v1.2.0) (2022-10-14)
+
+
+### Features
+
+* add Elesto icon and logo ([#4](https://github.com/elesto-dao/big-dipper/issues/4)) ([7ef1d1e](https://github.com/elesto-dao/big-dipper/commit/7ef1d1e729dc793ea87ecbd4f5e221cd68d317c6))
+
 ## [1.1.0](https://github.com/elesto-dao/big-dipper/compare/v1.0.1...v1.1.0) (2022-10-12)
 
 
